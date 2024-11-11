@@ -1,0 +1,11 @@
+C:\Users\garba\AppData\Local\Temporary Projects\RepositorioGIT\bin\Debug\RepositorioGIT.exe.config
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\bin\Debug\RepositorioGIT.exe.config
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\bin\Debug\RepositorioGIT.exe
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\bin\Debug\RepositorioGIT.pdb
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\bin\Debug\RepositorioGIT.xml
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\obj\Debug\RepositorioGIT.Form1.resources
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\obj\Debug\RepositorioGIT.Resources.resources
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\obj\Debug\RepositorioGIT.vbproj.GenerateResource.Cache
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\obj\Debug\RepositorioGIT.exe
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\obj\Debug\RepositorioGIT.xml
+C:\Users\garba\Documents\Visual Studio 2012\Projects\repositorio git 2024\RepositorioGIT\RepositorioGIT\obj\Debug\RepositorioGIT.pdb
