@@ -1,0 +1,33 @@
+# git ignore file
+*.suo
+*.backup
+*.user
+ # Archivos de base de datos
+*.dbmdl
+*.pptx
+*.psess
+*.orig
+*.xml
+*.~vsd
+*.zip
+*.sublime-project
+*.sublime-workspace
+*.exe
+# archivos de copia de seguridad que se crean mediante el programa Microsoft Money
+*.mdf
+# archivo de base de datos de Microsoft SQL Server, que almacena todos los registros de transacciones-eventos.
+*.ldf   
+**/nuspec.list
+**/packages/
+**/.sass-cache/
+**/node_modules/
+**/bower_components/
+*/Performance/*TestResults.txt
+**/bin
+**/obj
+**/*.log.1
+**/*.log.*
+*.log
+*.db
+.vs/
+Publish/
